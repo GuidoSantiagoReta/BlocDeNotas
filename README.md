@@ -72,7 +72,9 @@ updateRegister: Esta función actualiza un registro existente en la base de dato
 
 - deleteRegister: Esta función elimina un registro específico de la base de datos basándose en su ID. Utiliza el método destroy() del modelo con un objeto con la cláusula WHERE como argumento. La cláusula WHERE debe especificar el ID del registro a eliminar. Si la operación tiene éxito, se devuelve un mensaje indicando que el registro fue eliminado exitosamente. Si ocurre algún error, se captura y se devuelve un mensaje de error.
 
-<img src="../appPosts/frontend/src/assets/diagram.png" alt=""/>
+
+
+![Esta es una imagen de ejemplo](../appPosts/frontend/src/assets/diagram.png)
 
 Realizado con: https://app.eraser.io/
 
