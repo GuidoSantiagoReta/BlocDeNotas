@@ -72,7 +72,7 @@ updateRegister: Esta función actualiza un registro existente en la base de dato
 
 - deleteRegister: Esta función elimina un registro específico de la base de datos basándose en su ID. Utiliza el método destroy() del modelo con un objeto con la cláusula WHERE como argumento. La cláusula WHERE debe especificar el ID del registro a eliminar. Si la operación tiene éxito, se devuelve un mensaje indicando que el registro fue eliminado exitosamente. Si ocurre algún error, se captura y se devuelve un mensaje de error.
 
-![Descripción de la imagen](../BlocDeNotas/frontend/src/assets/diagram.png)
+![diagram](https://github.com/GuidoSantiagoReta/BlocDeNotas/assets/46303885/efffcd39-ba16-41ba-917a-4c9b5b363ad8)
 
 Realizado con: https://app.eraser.io/
 
@@ -138,10 +138,13 @@ INSERT INTO blogs (id, title, content) VALUES
 ### CAPTURAS DE LA APLICACIÓN:
 
 
-<img src="../BlocDeNotas/frontend/src/assets/app1.PNG" alt="" />
-<img src="../BlocDeNotas/frontend/src/assets/app2.PNG" alt=""/>
-<img src="../BlocDeNotas/frontend/src/assets/app3.PNG" alt=""/>
+![app1](https://github.com/GuidoSantiagoReta/BlocDeNotas/assets/46303885/bbbd143b-99eb-441b-aea8-60b4da692573)
+![app2](https://github.com/GuidoSantiagoReta/BlocDeNotas/assets/46303885/a5d1e4ac-5d2c-48aa-afa3-9e851a3088c3)
 
-<img src="../BlocDeNotas/frontend/src/assets/responsive1.PNG" alt=""/>
-<img src="../BlocDeNotas/frontend/src/assets/responsive2.PNG" alt=""/>
-<img src="../BlocDeNotas/frontend/src/assets/responsive3.PNG" alt=""/>
+
+![responsive1](https://github.com/GuidoSantiagoReta/BlocDeNotas/assets/46303885/e7ab13bc-98a6-476c-96a3-0b0ff3051d28)
+![responsive2](https://github.com/GuidoSantiagoReta/BlocDeNotas/assets/46303885/90c14321-4201-43be-95da-39e7ec8c0322)
+
+![responsive3](https://github.com/GuidoSantiagoReta/BlocDeNotas/assets/46303885/892f75e1-9f48-487f-be40-82367fa553a1)
+
+
