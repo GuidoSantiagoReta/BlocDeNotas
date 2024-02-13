@@ -1,5 +1,5 @@
 
-# APP POSTS
+# APP BlocDeNotas.
 
 ## TECNOLOGÍAS EN EL BACKEND:
 
