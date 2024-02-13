@@ -1,0 +1,25 @@
+
+
+
+.custom-input{
+  border-color: #198754 !important; 
+  width: 300px !important;
+  margin: auto !important;
+}
+
+.custom-input-area{
+  border-color: #198754 !important; 
+   height: 300px !important;
+    width: 300px !important; 
+    margin: auto !important; 
+}
+
+.custom-input:focus {
+ 
+  box-shadow:  0  0  0  0.2rem #198754 !important; 
+}
+
+.custom-input-area:focus {
+ 
+  box-shadow:  0  0  0  0.2rem #198754 !important; 
+}

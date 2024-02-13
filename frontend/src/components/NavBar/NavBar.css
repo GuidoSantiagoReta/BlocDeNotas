@@ -1,0 +1,19 @@
+
+.custom-toggle{
+    border: none !important;
+    box-shadow: none !important;
+  
+}
+
+.toggle {
+    border: none !important;
+  }
+  
+  .toggle:focus {
+    box-shadow: none !important;
+  }
+
+  .active {
+    color: white !important; /* Color de texto para el enlace activo */
+    background-color: #198754 !important; /* Color de fondo para el enlace activo */
+  }
