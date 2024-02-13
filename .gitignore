@@ -1,0 +1,17 @@
+# Directorios de frontend y backend
+/frontend/node_modules/
+/backend/node_modules/
+/coverage/
+# Archivos temporales, logs, etc.
+*.log
+.DS_Store
+Thumbs.db
+# directorios generados por herramientas de construcción
+/build/
+/dist/
+# archivos temporales y de sistema operativo
+*.log
+.DS_Store
+Thumbs.db
+
+
