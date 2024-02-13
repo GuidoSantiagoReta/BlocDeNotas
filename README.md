@@ -145,4 +145,4 @@ INSERT INTO blogs (id, title, content) VALUES
 <img src="../appPosts/frontend/src/assets/responsive1.PNG" alt=""/>
 <img src="../appPosts/frontend/src/assets/responsive2.PNG" alt=""/>
 <img src="../appPosts/frontend/src/assets/responsive3.PNG" alt=""/>
->>>>>>> master
+
