@@ -1,5 +1,5 @@
 
-# APP BlocDeNotas.
+# APP BlocDeNotas
 
 ## TECNOLOGÍAS EN EL BACKEND:
 
@@ -72,9 +72,7 @@ updateRegister: Esta función actualiza un registro existente en la base de dato
 
 - deleteRegister: Esta función elimina un registro específico de la base de datos basándose en su ID. Utiliza el método destroy() del modelo con un objeto con la cláusula WHERE como argumento. La cláusula WHERE debe especificar el ID del registro a eliminar. Si la operación tiene éxito, se devuelve un mensaje indicando que el registro fue eliminado exitosamente. Si ocurre algún error, se captura y se devuelve un mensaje de error.
 
-
-
-![Esta es una imagen de ejemplo](../appPosts/frontend/src/assets/diagram.png)
+<img src="../BlocDeNotas/frontend/src/assets/diagram.png" 
 
 Realizado con: https://app.eraser.io/
 
@@ -140,10 +138,10 @@ INSERT INTO blogs (id, title, content) VALUES
 ### CAPTURAS DE LA APLICACIÓN:
 
 
-<img src="../appPosts/frontend/src/assets/app1.PNG" alt="" />
-<img src="../appPosts/frontend/src/assets/app2.PNG" alt=""/>
-<img src="../appPosts/frontend/src/assets/app3.PNG" alt=""/>
+<img src="../BlocDeNotas/frontend/src/assets/app1.PNG" alt="" />
+<img src="../BlocDeNotas/frontend/src/assets/app2.PNG" alt=""/>
+<img src="../BlocDeNotas/frontend/src/assets/app3.PNG" alt=""/>
 
-<img src="../appPosts/frontend/src/assets/responsive1.PNG" alt=""/>
-<img src="../appPosts/frontend/src/assets/responsive2.PNG" alt=""/>
-<img src="../appPosts/frontend/src/assets/responsive3.PNG" alt=""/>
+<img src="../BlocDeNotas/frontend/src/assets/responsive1.PNG" alt=""/>
+<img src="../BlocDeNotas/frontend/src/assets/responsive2.PNG" alt=""/>
+<img src="../BlocDeNotas/frontend/src/assets/responsive3.PNG" alt=""/>
