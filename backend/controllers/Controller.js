@@ -2,7 +2,7 @@
 // importar modelo
 import Model from "../models/Model.js";
 
-// Metodos para el CRUD 
+// Metodos para la App 
 
 //Mostrar registros
 
