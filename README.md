@@ -6,7 +6,7 @@
 - Node.js
 - express
 - cors (se utiliza para permitir o restringir recursos solicitados en un servidor web dependiendo de dónde se inició la solicitud HTTP)
-- sequelize
+- sequelize (facilita la comunicación entre una aplicación Node.js y bases de datos)
 - mysql (cliente phpmyadmin)
 - dotenv (modulo para manejar las variables de entorno en el backend)
 
